@@ -5,7 +5,7 @@ const ACTIONS = {
     GET_DATA: 'get-data',
     ERROR: 'error'
 }
-const BASE_URL = 'https://app.sportdataapi.com/api/v1/soccer/players?apikey=06eddd10-33b6-11ed-963f-3da45e036ac9&country_id=48&max_age=19';
+const BASE_URL = 'https://github.com/15Dkatz/official_joke_api/blob/master/jokes/index.json';
 
 function reducer(state,action){
     switch(action.type){
